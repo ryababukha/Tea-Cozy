@@ -93,3 +93,14 @@ nav a {
   justify-content: space-around;
   margin: 45px auto;
 }
+/* FOOTER section styling */
+.footer {
+  display: block;
+  justify-content: center;
+  height: 200px;
+}
+.copyright {
+  text-align: left;
+  margin-left: 20px
+  margin-bottom: 5px;
+}
