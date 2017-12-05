@@ -41,7 +41,7 @@ nav a {
   height: 700px;
   width: 1200px;
   padding-top: 70px;
-
+  margin: auto;
 }
 .caption {
   text-align: center;
@@ -79,6 +79,7 @@ nav a {
   width: 1200px;
   height: 500px;
   padding-top: 70px;
+  margin: auto;
 }
 .location.box {
   display: inline-block;
